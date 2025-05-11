@@ -2,6 +2,16 @@
 
 ###
 
+###
+
+<!-- Estadísticas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180"/>
+</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -28,7 +38,7 @@
   <a href="https://www.linkedin.com/in/zmartinl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/zmartinllera1@gmail.com" target="_blank">
+  <a href="mailto:zmartinllera1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/zeusmartin__" target="_blank">
@@ -41,3 +51,8 @@
 <img align="right" height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 
 ###
+
+<p align="center">
+  <img src="https://github.com/zmartinl/zmartinl/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
