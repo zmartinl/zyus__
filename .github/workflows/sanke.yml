@@ -16,6 +16,10 @@ jobs:
           github_user_name: zmartinl
           outputs: |
             dist/github-contribution-grid-snake.svg
+          
+      - name: Modify SVG to change square color to black
+        run: |
+          sed -i 's/#ffffff/#000000/g' dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
