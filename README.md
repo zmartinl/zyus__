@@ -5,18 +5,10 @@
 
 ### 🧠 &nbsp;Sobre mí
 
-- 🎓 Estudiante de desarrollo de aplicaciones web (DAW)  
+- 🎓 Desarrollo Aplicaciones Webs
+- 💻 En prácticas para THB Hotels
 - 🛠️ Me encanta trabajar con tecnologías como Laravel, PHP, JavaScript y más  
 - 🚀 Siempre estoy aprendiendo cosas nuevas
-
----
-
-### 📊 &nbsp;Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Lenguajes más usados" />
-</p>
 
 ---
 
@@ -52,17 +44,13 @@
 
 ---
 
-### 🐍 &nbsp;Actividad
-
 <p align="center">
-  <img src="https://github.com/zmartinl/zmartinl/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=tokyonight&hide_border=true" height="250" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=tokyonight&hide_border=true" height="250" alt="Lenguajes más usados" />
 </p>
-
 
 ---
 
-### 😺 &nbsp;GIF programando
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="cat coding" />
+  <img src="https://github.com/zmartinl/zmartinl/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="900" />
 </p>
