@@ -5,10 +5,11 @@
 
 ### 🧠 &nbsp;Sobre mí
 
-- 🎓 Desarrollo Aplicaciones Webs
-- 💻 En prácticas para THB Hotels
+- 🎓 Desarrollo Aplicaciones Webs  
+- 💻 En prácticas para THB Hotels  
 - 🛠️ Me encanta trabajar con tecnologías como Laravel, PHP, JavaScript y más  
-- 🚀 Siempre estoy aprendiendo cosas nuevas
+- 🚀 Siempre estoy aprendiendo cosas nuevas  
+- 🌐 Mira mi portfolio: [zmartinl.github.io/Portfolio](https://zmartinl.github.io/Portfolio/)
 
 ---
 
@@ -24,6 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+  <img src="https://img.shields.io/badge/Ubuntu%20Scripts-Terminal-informational?style=flat&logo=ubuntu&logoColor=white" height="30" alt="Ubuntu Scripts" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" height="30" alt="Trello" />
 </p>
 
 ---
@@ -40,14 +46,27 @@
   <a href="https://www.instagram.com/zeusmartin__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://zmartinl.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Mi%20Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=tokyonight&hide_border=true" height="250" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=tokyonight&hide_border=true" height="250" alt="Lenguajes más usados" />
-</p>
+### 📊 &nbsp;Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true" height="180" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 📈 &nbsp;Gráfico de actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zmartinl&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
 
 ---
 
