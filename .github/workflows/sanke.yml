@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: platane
-          outputs: |
+          github_user_name: zmartinl
+          main: |
             dist/github-contribution-grid-snake.svg
 
       - name: Modify SVG to change square color to black
