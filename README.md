@@ -8,7 +8,7 @@
 - 🎓 Desarrollo Aplicaciones Webs  
 - 💻 En prácticas para THB Hotels  
 - 🛠️ Me encanta trabajar con tecnologías como Laravel, PHP, JavaScript y más  
-- 🚀 Siempre estoy aprendiendo cosas nuevas  
+- 🚀 Siempre estoy aprendiendo cosas nuevas, actualmente React
 - 🌐 Mira mi portfolio: [zmartinl.github.io/Portfolio](https://zmartinl.github.io/Portfolio/)
 
 ---
